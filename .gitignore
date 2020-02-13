@@ -1,0 +1,8 @@
+# gitignore list
+*node_modules/
+front/node_modules/
+
+front/vscode
+front/prettierrc
+
+front/eslintrc.js
