@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://localhost:8000",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "babel-cli": "^6.26.0",
     "body-parser": "^1.18.2",
     "ejs": "^2.5.7",
